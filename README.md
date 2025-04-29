@@ -2,7 +2,7 @@
 
 
 ```
-
+runmain_atacseq.py -f raw
 ```
 
 ```
